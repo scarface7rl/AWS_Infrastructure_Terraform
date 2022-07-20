@@ -23,5 +23,5 @@ variable "key_acess" {
 
 variable "secret_key_acess" {
     type = string
-    default = "lbzYI1JXL12ACzRMe2MfTR/KpWsatUFJlKClwQq4"
+    default = "."
 }
